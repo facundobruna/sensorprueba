@@ -38,4 +38,65 @@
     "temperatura": 23.5,
     "humedad": 62,
     "presión": 1015
-  }]
+  },
+  {
+    "id": 5,
+    "ubicación": { "latitud": -31.4500, "longitud": -64.1939 },
+    "nombre_zona": "General Paz",
+    "tipo_sensor": "Climático",
+    "fecha_hora": "2025-03-28T14:50:00",
+    "temperatura": 25.9,
+    "humedad": 57,
+    "presión": 1011
+  },
+  {
+    "id": 6,
+    "ubicación": { "latitud": -31.3800, "longitud": -64.1500 },
+    "nombre_zona": "Villa Cabrera",
+    "tipo_sensor": "Climático",
+    "fecha_hora": "2025-03-28T14:55:00",
+    "temperatura": 24.2,
+    "humedad": 61,
+    "presión": 1014
+  },
+  {
+    "id": 7,
+    "ubicación": { "latitud": -31.3700, "longitud": -64.1200 },
+    "nombre_zona": "Cerro de las Rosas",
+    "tipo_sensor": "Climático",
+    "fecha_hora": "2025-03-28T15:00:00",
+    "temperatura": 22.9,
+    "humedad": 63,
+    "presión": 1016
+  },
+  {
+    "id": 8,
+    "ubicación": { "latitud": -31.3900, "longitud": -64.2000 },
+    "nombre_zona": "Alta Córdoba",
+    "tipo_sensor": "Climático",
+    "fecha_hora": "2025-03-28T15:05:00",
+    "temperatura": 24.5,
+    "humedad": 59,
+    "presión": 1013
+  },
+  {
+    "id": 9,
+    "ubicación": { "latitud": -31.4600, "longitud": -64.1800 },
+    "nombre_zona": "San Vicente",
+    "tipo_sensor": "Climático",
+    "fecha_hora": "2025-03-28T15:10:00",
+    "temperatura": 26.0,
+    "humedad": 56,
+    "presión": 1010
+  },
+  {
+    "id": 10,
+    "ubicación": { "latitud": -31.4000, "longitud": -64.1700 },
+    "nombre_zona": "Pueyrredón",
+    "tipo_sensor": "Climático",
+    "fecha_hora": "2025-03-28T15:15:00",
+    "temperatura": 25.1,
+    "humedad": 58,
+    "presión": 1012
+  }
+]
